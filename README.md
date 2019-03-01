@@ -1,7 +1,7 @@
 # tennis_data_visualization
 Visualizing Australian open data:
 
-[Link](https://srinuvallabhaneni.github.io/tennis_data_visualization/)
+[Link for the site](https://srinuvallabhaneni.github.io/tennis_data_visualization/)
 
 Introduction:
 
